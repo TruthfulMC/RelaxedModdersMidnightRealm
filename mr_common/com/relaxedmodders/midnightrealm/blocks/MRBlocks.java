@@ -6,16 +6,25 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 
 public class MRBlocks {
+	//Main Blocks
 	public static Block cursedGrass;
 	public static Block taintedSoil;
 	public static Block shadowStone;
 	public static Block shadowCobble;
-	//
+	public static Block taintedSand;
+	//Woods
+	public static Block corruptOak;
+	public static Block sageWood;
+	public static Block yggdrassilLog;
+	public static Block moonLog;
+	public static Block spirtualLog;
+	//Ores
 	public static Block ikariteOre;
 	public static Block lunariteOre;
 	public static Block lunestoneOre;
 	public static Block shadowOre;
 	public static Block soulIronOre;
+	//Blocks
 	public static Block ikariteBlock;
 	public static Block lunariteBlock;
 	public static Block lunestoneBlock;
